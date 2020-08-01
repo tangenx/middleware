@@ -1,4 +1,6 @@
-Middleware on Future for Dart
+Middleware on Future for Dart and Flutter
+
+Inspired by [TypeScript version of middleware](https://github.com/negezor/middleware-io) by [negezor](https://github.com/negezor)
 
 ## Features 
 - Working with async/await
