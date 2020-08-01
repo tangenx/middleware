@@ -1,7 +1,9 @@
 name: middleware
 description: Modern middleware on Future
 version: 1.0.0
-# homepage: https://www.example.com
+homepage: https://github.com/TGXed/middleware
+repository: https://github.com/TGXed/middleware
+issue_tracker: https://github.com/TGXed/middleware/issues
 
 environment:
   sdk: '>=2.8.1 <3.0.0'
